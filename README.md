@@ -1,4 +1,4 @@
-# FilesCommunty
+# File Communty
 Building the best file manager experience for Windows
 
 <p align="center">
