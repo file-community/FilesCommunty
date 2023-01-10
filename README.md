@@ -23,7 +23,7 @@ Files is a file manager that lets you easily organize content on your device. Ro
 
 We welcome feedback items and approved community contributions! Vague ideas are difficult to act on, so you'll need to fill out the correct issue template with detailed information such as related links or screenshots. Keep discussions constructive by reading our [code of conduct](https://github.com/files-community/Files/blob/main/CODE_OF_CONDUCT.md).
 
-### 1. Installation
+### 1. Now Installation 
 
 - Prebuilt Executable
   - You can download the latest version from the
@@ -31,3 +31,4 @@ We welcome feedback items and approved community contributions! Vague ideas are 
 
 ![image](https://github.com/files-community/Files/raw/main/src/Files.App/Assets/FilesHome.png)
 
+ 
