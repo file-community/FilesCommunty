@@ -1,5 +1,5 @@
 # File Communty
-Building the best file manager experience for Windows
+Building the best file manager experience for Window
 
 <p align="center">
   <img alt="Files Logo" src="https://github.com/files-community/Files/raw/main/src/Files.App%20(Package)/Assets/AppTiles/Release/StoreLogo.scale-400.png" width="100px" />
